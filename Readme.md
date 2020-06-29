@@ -1,5 +1,12 @@
-# Android Application for control neopixel with Bluetooth
+# Bluetooth Controlled NeoPixel
 
-## For more detail you can look <a href="http://www.elektrobot.net/arduino-ile-android-kontollu-neopixel-led/" target="_blank">this topic</a>
+I got Android codes from <a href="http://www.elektrobot.net/arduino-ile-android-kontollu-neopixel-led/" target="_blank">here</a> and changed the codes for my project, thanks Oğuzhan Başer!
 
-<center><img src="appss.png" width="300px" height="500px"></center>
+
+I wrote Arduino codes by myself.
+
+First, you have to download the Arduino code from /Arduino folder.
+Then send these codes to Arduino. You can check the connection pins of HC-05 and NeoPixel from the codes.
+
+
+Build the application and send&setup it to your phone.
